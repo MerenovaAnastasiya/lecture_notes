@@ -1,3 +1,0 @@
-@ConditionalOnMissingBean -
-@ConditionalOnBean -
-@ConditionalOnClass - 

@@ -1,4 +1,4 @@
-#Graceful degradation
+# Graceful degradation
 
 **Graceful degradation**(изящная деградация) - свойство систем продолжать свою функцию даже после того как бОльшая часть системы недоступна.
 
